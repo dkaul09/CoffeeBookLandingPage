@@ -5,7 +5,7 @@ This is the login/registration page for the social media platform I am building 
 <img width="1436" alt="image" src="https://github.com/dkaul09/CoffeeBookLandingPage/assets/111927365/17fc7ce1-fb5d-431b-83c5-c8819b12fbda">
 
 
-**Feed Page (Concept)** 
+**Feed Page (First draft - To be edited)** 
 <img width="1440" alt="image" src="https://github.com/dkaul09/CoffeeBookLandingPage/assets/111927365/81513db4-0b66-40e2-93fa-cd6582e253e3">
 
 
